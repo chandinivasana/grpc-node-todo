@@ -1,6 +1,6 @@
 # gRPC Node.js To-Do App
 
-A simple To-Do application built using gRPC and Node.js, following the Hussein Nasser crash course but updated for `@grpc/grpc-js`.
+A simple To-Do application built using gRPC and Node.js,updated for `@grpc/grpc-js`.
 
 ## Features
 - Unary RPC for creating To-Dos
